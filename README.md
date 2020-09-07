@@ -1,8 +1,8 @@
 # React Realtime Chat Application
 
-### [Live Site]()
+### [Live Site](http://realtime.chat.igorkarotki.ru)
 
-![Chat Application]()
+![Chat Application](http://igorkarotki.ru/static/media/livechat.5f7057d8.png)
 
 ## Introduction
 
